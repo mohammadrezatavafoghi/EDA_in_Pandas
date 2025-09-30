@@ -7,7 +7,7 @@ The notebook explores demographic indicators across countries and regions, provi
 ## Dataset
 - **File:** `world_population.csv`  
 - Contains population data by country, including attributes such as region, year, and population size.  
-- Source: (add dataset source if available, e.g., Kaggle or UN data).
+- Source: (https://github.com/AlexTheAnalyst/PandasYouTubeSeries/blob/main/world_population.csv).
 
 ## Objectives
 - Load and inspect the world population dataset.
@@ -19,8 +19,7 @@ The notebook explores demographic indicators across countries and regions, provi
 
 ## Tools & Libraries
 - Python  
-- Pandas  
-- NumPy  
+- Pandas   
 - Matplotlib / Seaborn  
 - Jupyter Notebook
 
